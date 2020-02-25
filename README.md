@@ -12,6 +12,10 @@ Assignment 1
 
 Sortings.java
 
+Assignment 2
+
+Recurrences.docx
+
 
 Jiajie Zhu
 
