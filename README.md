@@ -14,7 +14,7 @@ Sortings.java
 
 Assignment 2
 
-Recurrences.docx
+Recurrences.pdf
 
 
 Jiajie Zhu
