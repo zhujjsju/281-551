@@ -16,6 +16,10 @@ Assignment 2
 
 Recurrences.pdf
 
+Assignment 3
+
+QuickSort.java
+
 
 Jiajie Zhu
 
