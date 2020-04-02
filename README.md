@@ -10,15 +10,23 @@ Any late submission or re-submission will not be accepted after the solution is 
 
 Assignment 1 
 
-Sortings.java
+· Sortings.java
 
 Assignment 2
 
-Recurrences.pdf
+· Recurrences.pdf
 
 Assignment 3
 
-QuickSort.java
+· QuickSort.java
+
+Assignment 4
+
+· LinearSort.java
+· SimultaneousMinAndMax.java
+· RandomizedSelect.java
+· MedianOfMedians.java
+
 
 
 Jiajie Zhu
